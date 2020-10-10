@@ -1,0 +1,25 @@
+.footer {
+    display: flex;
+    justify-content:center;
+    background-color: #232F3E;
+    padding-top: 20px;
+    color: white
+}
+
+.footer__container {
+    display: flex;
+    text-decoration: none;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.footer__column > ul {
+    list-style-type: none;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.footer__column > ul > li {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

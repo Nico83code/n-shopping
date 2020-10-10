@@ -1,0 +1,9 @@
+.backtotop {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #37475A;
+    padding-top: 20px;
+    color: white
+}
