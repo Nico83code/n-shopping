@@ -1,0 +1,44 @@
+.navbar__container {
+    display: flex;
+    align-items: center;
+    background-color: #232F3E;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.navbar__section {
+    display: flex;
+    flex-direction: column;
+    margin-right: 10px;
+    color: white;
+    
+}
+
+.navbar_location {
+    margin-left: 20px;
+    margin-right: 5px;
+    color: white;
+}
+
+.navbar__optionLineOne {
+    font-size: 10px;
+}
+
+.navbar__optionLineTwo {
+    font-size: 12px;
+    font-weight: 800;
+}
+
+.navbar__menu > ul {
+    font-size: 12px;
+    list-style-type: none;
+    color: white;
+    font-weight: 800;
+}
+
+.navbar__menu > ul > li {
+    display: inline;
+    list-style-type: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}

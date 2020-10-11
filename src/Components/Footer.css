@@ -14,12 +14,13 @@
 }
 
 .footer__column > ul {
+    font-size: 12px;
     list-style-type: none;
     padding-left: 60px;
     padding-right: 60px;
 }
 
 .footer__column > ul > li {
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }

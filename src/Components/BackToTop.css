@@ -5,5 +5,7 @@
     flex-direction: column;
     background-color: #37475A;
     padding-top: 20px;
-    color: white
+    color: white;
+    text-decoration: none;
 }
+
